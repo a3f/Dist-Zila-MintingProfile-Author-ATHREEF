@@ -1,0 +1,6 @@
+.build/
+*.sw*
+.DS_Store
+{{$dist->name}}-*/
+{{$dist->name}}-*.tar.gz
+

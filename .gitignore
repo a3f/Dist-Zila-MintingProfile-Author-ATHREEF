@@ -1,0 +1,6 @@
+.build/
+*.sw*
+.DS_Store
+Dist-Zila-MintingProfile-Author-ATHREEF-*/
+Dist-Zila-MintingProfile-Author-ATHREEF-*.tar.gz
+
