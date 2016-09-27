@@ -6,7 +6,7 @@ Dist::Zila::MintingProfile::Author::ATHREEF - a3f's Dist::Zilla Minting Profile
 
 =head1 GIT REPOSITORY
 
-L<http://github.com/a3f/Dist-Zila-MintingProfile-Author-ATHREEF>
+L<http://github.com/athreef/Dist-Zila-MintingProfile-Author-ATHREEF>
 
 =head1 SEE ALSO
 

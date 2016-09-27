@@ -53,7 +53,7 @@ __END__
 
 =head1 GIT REPOSITORY
 
-L<http://github.com/a3f/{{$dist->name}}>
+L<http://github.com/athreef/{{$dist->name}}>
 
 =head1 SEE ALSO
 
